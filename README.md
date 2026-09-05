@@ -4,8 +4,8 @@ A modern, responsive landing page built to practice and demonstrate HTML, CSS, a
 
 🔗 Links
 
-- 🚀 Live Demo: [Add your Live Demo link here]
-- 💻 GitHub Repository: [Add your GitHub Repository link here]
+- 🚀 Live Demo: [https://khatikiram41-jpg.github.io/responsive-landing-page/]
+- 💻 GitHub Repository: [https://github.com/khatikiram41-jpg/responsive-landing-page.git]
 
 ---
 
